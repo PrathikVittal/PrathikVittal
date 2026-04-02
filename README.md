@@ -5,10 +5,11 @@
   <a href="https://www.linkedin.com/in/prathikvittalbp">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:prathikvittal15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.prathikvittal.com">
     <img src="https://skillicons.dev/icons?i=htmx" height="45"/>
   </a>
