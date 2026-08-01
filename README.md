@@ -75,11 +75,6 @@ These days I spend most of my time on agentic systems — orchestrating LLMs to 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrathikVittal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=6366F1&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathikVittal&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=PrathikVittal&hide_border=true&background=0D1117&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
 
