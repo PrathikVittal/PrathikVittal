@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:6366F1&height=200&section=header&text=Prathik%20Vittal&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20%26%20AI%20Engineer&descSize=22&descAlignY=60"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+    <img alt="Prathik Vittal — Agentic AI, LLM Orchestration, and Full-stack Development" src="art/header-light.png" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -113,6 +116,9 @@ To enable the snake animation:
 </a>
 <a href="https://github.com/PrathikVittal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
